@@ -62,7 +62,13 @@ assets/
 When using assets in GitHub repositories, READMEs, or other GitHub-hosted content, you can directly reference them using GitHub's raw content URLs:
 
 ```markdown
-![Little Samo Mascot](https://raw.githubusercontent.com/little-samo/CI/master/assets/characters/samo/profile.png)
+![Little Samo Mascot](https://media.githubusercontent.com/media/little-samo/CI/master/assets/characters/samo/profile.png)
+```
+
+For HTML with custom sizing:
+
+```html
+<img src="https://media.githubusercontent.com/media/little-samo/CI/master/assets/characters/samo/profile.png" alt="Little Samo Mascot" width="250" />
 ```
 
 ### External Usage
