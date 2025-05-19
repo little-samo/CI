@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="#what-is-ci">What is CI?</a> •
-  <a href="#folder-structure">Folder Structure</a> •
-  <a href="#how-to-use">How to Use</a> •
-  <a href="#asset-licensing">Asset Licensing</a>
+  <a href="#-what-is-ci">What is CI?</a> •
+  <a href="#️-folder-structure">Folder Structure</a> •
+  <a href="#-how-to-use">How to Use</a> •
+  <a href="#-asset-licensing">Asset Licensing</a>
 </p>
 
 ## 📦 What is CI?
