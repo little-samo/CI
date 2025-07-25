@@ -53,6 +53,8 @@ assets/
       profile.png
   projects/
     samo-ai/                  # SamoAI framework assets
+      diagrams/               # Technical diagrams
+        how_it_works.png
       examples/               # Demo clips and examples
         web.gif
         x.gif
