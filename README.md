@@ -56,9 +56,9 @@ assets/
       examples/               # Demo clips and examples
         web.gif
         x.gif
-    services/                 # Service-specific assets
-      minimo/                 # Minimo service assets
-        frame.png
+  services/                 # Service-specific assets
+    minimo/                 # Minimo service assets
+      frame.png
 ```
 
 > 🔧  Need something that isn't here?  [Open an issue](https://github.com/little-samo/CI/issues) or contact us at contact@littlesamo.io.
