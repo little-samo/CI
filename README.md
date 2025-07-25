@@ -14,11 +14,11 @@
 ## 📦 What is CI?
 
 **CI (Creative Identity)** is where we publish brand-approved artwork for the Little Samo Inc. organisation.  
-Use the files here in your READMEs, blog posts, slide decks, or anywhere you need to show off the Little Samo brand.
+Use the files here in your READMEs, blog posts, slide decks, service documentation, or anywhere you need to show off the Little Samo brand and projects.
 
 *   Logos for **Little Samo** _(company)_ and **SamoAI** _(framework)_
 *   Character renders & animations for **Samo** and **Nyx** — with more friends to come
-*   Screenshots & short demo clips that illustrate our products
+*   Project assets including screenshots, demos, and service materials
 
 All assets live under version control and are delivered through **Git LFS** so your clones stay light-weight.
 
@@ -41,16 +41,24 @@ assets/
       poweredby/              # "Powered by" variant
         light.png
         dark.png
+    symbols/                  # Brand symbols & icons
+      symbol.png
+      symbol_black.png
+      symbol_blueviolet.png
+      symbol_white.png
   characters/
     samo/                     # Samo character assets
       profile.png
     nyx/                      # Nyx character assets
       profile.png
-  examples/
-    repositories/            # Example images from public repositories
-    media/                   # Media appearances
-      youtube/
-      twitch/
+  projects/
+    samo-ai/                  # SamoAI framework assets
+      examples/               # Demo clips and examples
+        web.gif
+        x.gif
+    services/                 # Service-specific assets
+      minimo/                 # Minimo service assets
+        frame.png
 ```
 
 > 🔧  Need something that isn't here?  [Open an issue](https://github.com/little-samo/CI/issues) or contact us at contact@littlesamo.io.
